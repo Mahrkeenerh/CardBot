@@ -1,0 +1,1882 @@
+[
+  {
+    "Card Name": "Secret Signal",
+    "Suit": "Arcane",
+    "Restriction": "Adviser",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "If you gain only 1 Favor, gain 1 more Favor."
+  },
+  {
+    "Card Name": "Augury",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "Draw one more card. (Stop after a vision as normal.)"
+  },
+  {
+    "Card Name": "Rusting Ray",
+    "Suit": "Arcane",
+    "Restriction": "Defense",
+    "Action": "Campaign",
+    "Cost": "1 Secret",
+    "Power": "If you hold the Darkest Secret, ignore all your enemy's rolls of hollow swords."
+  },
+  {
+    "Card Name": "Portal",
+    "Suit": "Arcane",
+    "Restriction": "Site",
+    "Action": "Travel",
+    "Cost": "1 Secret",
+    "Power": "Spend no Supply and ignore the powers of sites if you're traveling to or from this site."
+  },
+  {
+    "Card Name": "Billowing Fog",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Secret",
+    "Power": "If you're defeated, kill no warbands in your force. Ignore powers that kill all of your force."
+  },
+  {
+    "Card Name": "Kindred Warriors",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Secret",
+    "Power": "Ignore all skulls you roll. ±X Attack dice up to the number of other suits you rule."
+  },
+  {
+    "Card Name": "Terror Spells",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Kill any two warband in your region (at sits or on boards, even yours) if you hold the Darkest Secret."
+  },
+  {
+    "Card Name": "Blood Pact",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Sacrifice an even number of warband on your board. For every two you sacrifice, gain 1 Secret."
+  },
+  {
+    "Card Name": "Revelation",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, each player, following turn order, may burn any number of Favor to gain an equal number of Secrets."
+  },
+  {
+    "Card Name": "Observatory",
+    "Suit": "Arcane",
+    "Restriction": "Site",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "While you pawn is here, you may draw from any discard pile."
+  },
+  {
+    "Card Name": "Plague Engines",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret, Burn 1 Secret",
+    "Power": "ACTION: Each player (even you) places one Favor per site they rule into the Arcane bank."
+  },
+  {
+    "Card Name": "Gleaming Armor",
+    "Suit": "Arcane",
+    "Restriction": "Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Your enemy's battle plans each have an added cost of 1 Secret."
+  },
+  {
+    "Card Name": "Bewitch",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, if you're an Exile and have more Secrets (even on cards) than the Chancellor, you may become a Citizen– take no relic, end your Act Phase, and refresh Supply to full."
+  },
+  {
+    "Card Name": "Jinx",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "If you rule Jinx, after you roll double swords or double shields for any reason, you may use this power to reroll all those dice once. (This is not a battle plan!)"
+  },
+  {
+    "Card Name": "Tutor",
+    "Suit": "Arcane",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "1 Favor, 1 Secret",
+    "Power": "ACTION: Gain 1 Secret."
+  },
+  {
+    "Card Name": "Dream Thief",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "2 Favor",
+    "Power": "ACTION: Swap any two facedown advisers."
+  },
+  {
+    "Card Name": "Cracking Ground",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "Burn 1 Secret",
+    "Power": "± 1 Attack die per site targeted."
+  },
+  {
+    "Card Name": "Sealing Ward",
+    "Suit": "Arcane",
+    "Restriction": "Locked Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Your relics each add one more Defense die when targeted."
+  },
+  {
+    "Card Name": "Initiation Rite",
+    "Suit": "Arcane",
+    "Restriction": "Locked Adviser",
+    "Action": "Muster",
+    "Cost": "",
+    "Power": "To muster, you must place 1 Secret instead of 1 Favor."
+  },
+  {
+    "Card Name": "Vow of Silence",
+    "Suit": "Arcane",
+    "Restriction": "Locked Adviser",
+    "Action": "Recover",
+    "Cost": "",
+    "Power": "You cannot recover the Darkest Secret or give anyone Secrets. Whenever a player recovers it, you gain X Secrets equal to the number of Secrets they placed."
+  },
+  {
+    "Card Name": "Forgotten Vault",
+    "Suit": "Arcane",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Place 1 Secret from the shared bank on the Darkest Secret, or burn 1 Secret from the Darkest Secret (not last Secret)."
+  },
+  {
+    "Card Name": "Map Library",
+    "Suit": "Arcane",
+    "Restriction": "Site",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "While you pawn is at this site, you may trade with a card at any site in your region."
+  },
+  {
+    "Card Name": "Witch's Bargain",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Give 1 Secret to a player whose pawn is at your site to take 2 favor from them, or give 2 favor for 1 Secret, any number of times."
+  },
+  {
+    "Card Name": "Master of Disguise",
+    "Suit": "Arcane",
+    "Restriction": "Adviser",
+    "Action": "Trade",
+    "Cost": "1 Secret",
+    "Power": "Act as if you had another player's adviser instead. (You can't use your other advisers.)"
+  },
+  {
+    "Card Name": "Great Spire",
+    "Suit": "Arcane",
+    "Restriction": "Locked Site",
+    "Action": "Search",
+    "Cost": "1 Secret",
+    "Power": "You may swap any number of denizens you draw with random cards from the dispossesed."
+  },
+  {
+    "Card Name": "Fallen Spire",
+    "Suit": "Arcane",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "Burn 1 Secret, 1 Secret",
+    "Power": "You cannot use this card to muster or trade. ACTION: Sapw up to five denizens from the top of your region's discard pile (skipping visions) with random cards from the disposessed."
+  },
+  {
+    "Card Name": "Taming Charm",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Discard a Beast of Nomad card at your site to gain 2 Favor from the matching favor bank."
+  },
+  {
+    "Card Name": "Spirit Snare",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Take 1 Favor from any one favor bank."
+  },
+  {
+    "Card Name": "Fire Talkers",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Secret",
+    "Power": "± 3 Attack dice if you hold the Darkest Secret."
+  },
+  {
+    "Card Name": "Inquisitor",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Peek at an adviser of a player whose pawn is at your site. If it is the Conspiracy, you play it or discard it. If it is not, give them the favor here."
+  },
+  {
+    "Card Name": "Alchemist",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret, Burn 1 Secret",
+    "Power": "ACTION: Gain 4 Favor from any favor bank or banks."
+  },
+  {
+    "Card Name": "Dazzle",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, discard all Hearth and Order cards at sites in your region."
+  },
+  {
+    "Card Name": "Magician's Code",
+    "Suit": "Arcane",
+    "Restriction": "",
+    "Action": "Recover",
+    "Cost": "2 Favor",
+    "Power": "If recovering the Darkest Secret, gain 2 Secrets and add them to any other Secrets you're paying to recover it (even none)."
+  },
+  {
+    "Card Name": "Actiong Troupe",
+    "Suit": "Arcane",
+    "Restriction": "Adviser",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "Act as if Acting Troupe is a Beast or Order card instead."
+  },
+  {
+    "Card Name": "Wizard School",
+    "Suit": "Arcane",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Gain 1 Secret, then end your Act Phase."
+  },
+  {
+    "Card Name": "Wild Allies",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Campaign at any site with a Beast card. Act as if your pawn is there. Spend no Supply and add your warbands there to your force."
+  },
+  {
+    "Card Name": "Bracken",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "You may put all the cards you discard on the top or bottom of any one discard pile (even your region's)."
+  },
+  {
+    "Card Name": "Vow of Beastkin",
+    "Suit": "Beast",
+    "Restriction": "Locked Adviser",
+    "Action": "Muster",
+    "Cost": "",
+    "Power": "You must muster on a card matching any of your advisers, but you gain one more warband."
+  },
+  {
+    "Card Name": "Walled Garden",
+    "Suit": "Beast",
+    "Restriction": "Site, Defense",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "+1 defense die per beast card at any sites if this site is targeted."
+  },
+  {
+    "Card Name": "Forest Council",
+    "Suit": "Beast",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "Enemies of Forect Council's ruler cannot trade with or muster from Beast Cards"
+  },
+  {
+    "Card Name": "Vow of Poverty",
+    "Suit": "Beast",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "You cannot gain Favor from Trade. Rest: If you have no Favor, take 2 Favor from any one bank."
+  },
+  {
+    "Card Name": "Marsh Spirit",
+    "Suit": "Beast",
+    "Restriction": "Site",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Players who target this site cannot use battle plans."
+  },
+  {
+    "Card Name": "Memeory of Nature",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "Action: Move a total of X Favor from any favor banks to the Beast bank. X is the number of Beast cards on the map."
+  },
+  {
+    "Card Name": "Animal Host",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, gain warbands equal to the total number of Beast cards (including Animal Host) at any sites (regardless of rule)."
+  },
+  {
+    "Card Name": "Wild Cry",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "If you play a Beast card, gain 1 Supply and 2 wardbands."
+  },
+  {
+    "Card Name": "New Growth",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "You may play Beast and Hearth cards to any site (that has a space)."
+  },
+  {
+    "Card Name": "War Tortoise",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Ignore all attack or defense added by your enemy's rolls of Double Sword or Double Shield. (Any Skulls they roll still kill their warbands.)"
+  },
+  {
+    "Card Name": "Giant Python",
+    "Suit": "Beast",
+    "Restriction": "Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Whenever a player attacks you, they must declare targets that add an even total (2, 4, etc.) of Defense Dies to your defense pool."
+  },
+  {
+    "Card Name": "Vow of Union",
+    "Suit": "Beast",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "In campaigns, warbands at sites you rule add to your attacking force. You cannot travel from a site you rule if any warbands are on your board."
+  },
+  {
+    "Card Name": "Insect Swarm",
+    "Suit": "Beast",
+    "Restriction": "Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Your enemy's battle plans each have and added cost of Burn 1 Favor."
+  },
+  {
+    "Card Name": "Pied Piper",
+    "Suit": "Beast",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "This card ignores the Adviser limit. ACTION: Move this card to any other player's advisers. Take 2 favor from them."
+  },
+  {
+    "Card Name": "Second Chance",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Kill one warband on the baord of a player who has an Order or Discord adviser to gain one warband."
+  },
+  {
+    "Card Name": "Fae Merchant",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Draw a relic and take it. Put any relic you hold except the Grand Scepter on the bottom of the relic deck."
+  },
+  {
+    "Card Name": "Threatening Roar",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, discard all Nomad and Beast cards at sites in your region."
+  },
+  {
+    "Card Name": "Grasping Vines",
+    "Suit": "Beast",
+    "Restriction": "Site",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "Enemies traveling from any site ruled by Grasping Vines' ruler must kill one warband on their board if able."
+  },
+  {
+    "Card Name": "Small Friends",
+    "Suit": "Beast",
+    "Restriction": "Adviser",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "Act as if your pawn is at any site with a Beast card. (You may use trade modifiers there.)"
+  },
+  {
+    "Card Name": "Birdsong",
+    "Suit": "Beast",
+    "Restriction": "Adviser",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "Spend no Supply if you're trading with a Beast or Nomad card."
+  },
+  {
+    "Card Name": "Nature Worship",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Secret",
+    "Power": "± 1 Attack die per Beast Adviser you have."
+  },
+  {
+    "Card Name": "Forest Temple",
+    "Suit": "Beast",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "In the Chronicle, do not discard sites with any Beast cards."
+  },
+  {
+    "Card Name": "Wolves",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Kill one warband (even yours) on any one board."
+  },
+  {
+    "Card Name": "Forest Paths",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "Travel",
+    "Cost": "1 Favor",
+    "Power": "Spend no Supply and ignore the powers of sites if you're traveling to a site with a Beast card."
+  },
+  {
+    "Card Name": "Animal Playmates",
+    "Suit": "Beast",
+    "Restriction": "Adviser",
+    "Action": "Muster",
+    "Cost": "",
+    "Power": "Spend no Supply if you're mustering on a Beast card."
+  },
+  {
+    "Card Name": "Errand Boy",
+    "Suit": "Beast",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "1 Favor",
+    "Power": "You may draw from a discard pile in a different region instead of yours."
+  },
+  {
+    "Card Name": "The Old Oak",
+    "Suit": "Beast",
+    "Restriction": "Site",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "If trading with The Old Oak for a Secret, gain one more Secret if you have any Beast advisers."
+  },
+  {
+    "Card Name": "Long-Lost Heir",
+    "Suit": "Beast",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, if you're an Exile, you may become a Citizen– take no relic, end your Act Phase, and refresh Supply to full (leftmost)."
+  },
+  {
+    "Card Name": "Roving Terror",
+    "Suit": "Beast",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Discard a denizen card at any other site and move this card there."
+  },
+  {
+    "Card Name": "True Names",
+    "Suit": "Beast",
+    "Restriction": "Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Your enemy cannot use battle plans that match any of your advisers against you."
+  },
+  {
+    "Card Name": "Rangers",
+    "Suit": "Beast",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "Ignore all skulls you roll. + 2 Attack dice if the defense pool has 4+ defense dice."
+  },
+  {
+    "Card Name": "Mushrooms",
+    "Suit": "Beast",
+    "Restriction": "Site",
+    "Action": "Search",
+    "Cost": "1 Secret",
+    "Power": "Spend no Supply, but draw only one card (not three) from the bottom of your region's discard pile."
+  },
+  {
+    "Card Name": "Riots",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, if the People's Favor is on the Mob side, discard all other cards of the most common suit on the map. If there is a tie, you choose among the tied suits."
+  },
+  {
+    "Card Name": "Silver Tongue",
+    "Suit": "Discord",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "You can only have two advisers. REST: Take Favor from a favor bank matching a card at your site."
+  },
+  {
+    "Card Name": "Gambling Hall",
+    "Suit": "Discord",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "2 Favor",
+    "Power": "ACTION: Roll 4 Defense dice and take X Favor equal to the total shield result from any one favor bank."
+  },
+  {
+    "Card Name": "Boiling Lake",
+    "Suit": "Discord",
+    "Restriction": "Locked Site",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "If you travel to this site and do not rule this card, you must kill two warbands on your board if able."
+  },
+  {
+    "Card Name": "Relic Thief",
+    "Suit": "Discord",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "1 Favor, 1 Secret",
+    "Power": "After a player take any relics and their pawn is in your region, you may use this power to roll one Defense die per relic taken. If you roll no shields, take the relics."
+  },
+  {
+    "Card Name": "Enchantress",
+    "Suit": "Discord",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "Burn 1 Secret",
+    "Power": "Swap this card with any one faceup adviser."
+  },
+  {
+    "Card Name": "Insomnia",
+    "Suit": "Discord",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "You can only have two advisers. REST: Gain 1 Secret."
+  },
+  {
+    "Card Name": "Sneak Attack",
+    "Suit": "Discord",
+    "Restriction": "Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "After another player's campaign, you may campaign, spending no Supply, if you declare them as the defender."
+  },
+  {
+    "Card Name": "Gossip",
+    "Suit": "Discord",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "Enemies of Gossip's ruler cannot play cards as facedown advisers."
+  },
+  {
+    "Card Name": "Bandit Thief",
+    "Suit": "Discord",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, kill one warband at each site. While Bandit Chief is faceup, each site has two more bandits."
+  },
+  {
+    "Card Name": "Chaos Cult",
+    "Suit": "Discord",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "After another player takes the Oathkeeper title, you take 1 Favor from them."
+  },
+  {
+    "Card Name": "Slander",
+    "Suit": "Discord",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "If you're victorious and targeted the defender's pawn, they burn all of the favor on their board."
+  },
+  {
+    "Card Name": "Charlatan",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, burn all Favor but one from the Darkest Secret."
+  },
+  {
+    "Card Name": "Assassin",
+    "Suit": "Discord",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "You can only have two advisers. ACTION: Discard a faceup adviser of a player whose pawn is at your site."
+  },
+  {
+    "Card Name": "Downtrodden",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "Muster",
+    "Cost": "",
+    "Power": "Gain two more warbands if mustering on a card whose favor bank has the least Favor (not tied)."
+  },
+  {
+    "Card Name": "Blackmail",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, choose a relic held by a player whose pawn is at your site. You take the relic unless they give you 3 Favor."
+  },
+  {
+    "Card Name": "Cracked Sage",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Secret, Burn 1 Favor",
+    "Power": "± 4 Attack dice if youyr enemy has an Arcane adviser."
+  },
+  {
+    "Card Name": "Dissent",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, each player, expecpt the holder of the People's Favor, places 1 Favor on this card for each suit of card they rule."
+  },
+  {
+    "Card Name": "False Prophet",
+    "Suit": "Discord",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, if you're an Exile , gain one warband and put it on any revealed Vision. You now also have it revealed. If it is ever discarded, kill the warband and play or discard the vision as if you searched."
+  },
+  {
+    "Card Name": "Vow of Renewal",
+    "Suit": "Discord",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "You cannot recover the People's Favor. Whenever any player burns Favor, you take the Favor instead."
+  },
+  {
+    "Card Name": "Zealots",
+    "Suit": "Discord",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "If the defending force is larger than your force, each warband you sacrifice will add three (not one) to your attack."
+  },
+  {
+    "Card Name": "Royal Ambitions",
+    "Suit": "Discord",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, if you're an Exile and rule more sites than the Chancellor, you may become a Citizen– take any one Reliquary relic without peeking, end your Act Phase, and refresh Supply to full."
+  },
+  {
+    "Card Name": "Salt the Earth",
+    "Suit": "Discord",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "You cannot play Salt the Earth to a site with any locked cards. WHEN PLAYED, ignore this sites capacity. Discard all other denizens at this site. This site's capacity is now 1."
+  },
+  {
+    "Card Name": "Beast Tamer",
+    "Suit": "Discord",
+    "Restriction": "Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Enemies cannot use Beast or Nomad battle plans against you."
+  },
+  {
+    "Card Name": "Festival District",
+    "Suit": "Discord",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Negotiate a binding exchange of Favor, Secrets, and advisers with any player."
+  },
+  {
+    "Card Name": "Squalid District",
+    "Suit": "Discord",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "You cannot use this card to muster or trade. Whenever the purple die is roled to end the game, Squalid District's ruler may increase of decrease this roll by one. Citizens cannot use this power."
+  },
+  {
+    "Card Name": "Sleight of Hand",
+    "Suit": "Discord",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Take 1 Secret from a player whose pawn is at your site. You cannot take their last Secret."
+  },
+  {
+    "Card Name": "Key to the City",
+    "Suit": "Discord",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, if the ruler's pawn is not at this site, kill any warbands at this site, then gain a warband and placed it here."
+  },
+  {
+    "Card Name": "Naysayers",
+    "Suit": "Discord",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "REST: If any Exile is the Oathkeeper or Usurper, take 1 Favor from the Chancellor."
+  },
+  {
+    "Card Name": "A Small Favor",
+    "Suit": "Discord",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, gain 4 warbands."
+  },
+  {
+    "Card Name": "Book Burning",
+    "Suit": "Discord",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're victorious and targeted the defender's pawn, they also burn all of the Secrets on their board except their last."
+  },
+  {
+    "Card Name": "Second Wind",
+    "Suit": "Discord",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "1 Secret, Burn 1 Favor",
+    "Power": "After you're victorious, you may travel and then may campaign, spending no Supply for either."
+  },
+  {
+    "Card Name": "Disgraced Captain",
+    "Suit": "Discord",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "1 Favor, Burn 1 Favor",
+    "Power": "+ 4 Attack dice if targeting a site that has an Order card."
+  },
+  {
+    "Card Name": "Mercanaries",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "± 3 Attack dice. If you're defeated while using this power, discard Mercenaries."
+  },
+  {
+    "Card Name": "Scryer",
+    "Suit": "Discord",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Peek at any one discard pile."
+  },
+  {
+    "Card Name": "Vow of Peace",
+    "Suit": "Hearth",
+    "Restriction": "Locked Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "You cannot campaign. Attackers cannot sacrifice warbands to increase their attack against you."
+  },
+  {
+    "Card Name": "Deed Writer",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Negoitiate a binding exchange of Favor, Secrets, and ruled sites with any player. Old ruler moves warbands to baord, and new ruler moves warbands from board."
+  },
+  {
+    "Card Name": "Salad Days",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, gain 3 Favor– one from three diverent Favor banks."
+  },
+  {
+    "Card Name": "Marriage",
+    "Suit": "Hearth",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "Marriage counts as two Hearth advisers, but only counts as one toward your adviser limit."
+  },
+  {
+    "Card Name": "Hospital",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If any of your warbands would be killed, place them on Hospital's site instead if you still rule it."
+  },
+  {
+    "Card Name": "Awaited Return",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "Spend no Supply if you sacrifice one warband on your board."
+  },
+  {
+    "Card Name": "Homesteaders",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Move one of your faceup advisers to your site."
+  },
+  {
+    "Card Name": "Crop Rotation",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "If played to a site, you may first discard a denizen there."
+  },
+  {
+    "Card Name": "A Round of Ale",
+    "Suit": "Hearth",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Return all Favor and Secrets, and flip your Secret, as in the Rest Phase, except for the Favor here."
+  },
+  {
+    "Card Name": "Land Warden",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "1 Favor",
+    "Power": "You may play two cards you draw (instead of one) if you play at least one card to a site."
+  },
+  {
+    "Card Name": "Charming Friend",
+    "Suit": "Hearth",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Take 1 Favor from a player whose pawn is at your site."
+  },
+  {
+    "Card Name": "Village Constabel",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "± 2 Attack dice unless your enemy has the People's Favor."
+  },
+  {
+    "Card Name": "Family Heirloom",
+    "Suit": "Hearth",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, draw a relic. Take it or put it on the bottom of the relic deck."
+  },
+  {
+    "Card Name": "News from Afar",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "2 Favor",
+    "Power": "Spend no Supply."
+  },
+  {
+    "Card Name": "Levelers",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Move 2 Favor from the favor bank with the most Favor to that with the least favor. You decide ties."
+  },
+  {
+    "Card Name": "Fabled Feast",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, take X Favor equal to the number of Hearth cards you rule (including Fabled Feast), from any one favor bank."
+  },
+  {
+    "Card Name": "The Great Levy",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "2 Favor",
+    "Power": "± 3 Attack dice and ignore all skulls you roll, unless your enemy has the Peopl's Favor."
+  },
+  {
+    "Card Name": "Hearts and Minds",
+    "Suit": "Hearth",
+    "Restriction": "Site, Defense",
+    "Action": "Campaign",
+    "Cost": "3 Favor",
+    "Power": "As defender, you're victorious now. At end, discard Hearts and Minds unless you hold the People's Favor."
+  },
+  {
+    "Card Name": "Relic Breaker",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Put the facedown relic at your site on the bottom of the relic deck to gain three warbands."
+  },
+  {
+    "Card Name": "Book Binders",
+    "Suit": "Hearth",
+    "Restriction": "Adviser",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "After another player plays a Vision faceup, you gain 2 Favor from any one favor bank."
+  },
+  {
+    "Card Name": "Ballot Box",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: If you're an Exile and have the People's Favor, become a Citizen– take no relic, end your Act Phase, and refresh Supply to full."
+  },
+  {
+    "Card Name": "Saddle Makers",
+    "Suit": "Hearth",
+    "Restriction": "Adviser",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "After another player plays a Nomad or Order card, you gain 2 Favor from the matching favor bank."
+  },
+  {
+    "Card Name": "Herald",
+    "Suit": "Hearth",
+    "Restriction": "Adviser",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "After another player campaigns again a player (not bandits), you gain 1 Favor from any favor bank."
+  },
+  {
+    "Card Name": "Rowdy Pub",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "Muster",
+    "Cost": "",
+    "Power": "Gain one more warband if mustering from Rowdy Pub."
+  },
+  {
+    "Card Name": "Hall of Debate",
+    "Suit": "Hearth",
+    "Restriction": "Locked Site",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Players cannot target the People's Favor."
+  },
+  {
+    "Card Name": "Hall of Mockery",
+    "Suit": "Hearth",
+    "Restriction": "Locked Site",
+    "Action": "Recover",
+    "Cost": "",
+    "Power": "You cannot use this card to muster or trade. Recovering the People's Favor always flips it to the Mob side."
+  },
+  {
+    "Card Name": "Tinker's Fair",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Negotiate a binding exchange of Favor, Secrets, and advisers with any player."
+  },
+  {
+    "Card Name": "Wayside Inn",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Gain 2 Supply."
+  },
+  {
+    "Card Name": "Welcoming Party",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "If you play a denizen card that was not a facedown adviser, gain 1 Favor from the Hearth bank."
+  },
+  {
+    "Card Name": "Memory of Home",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "Burn 1 Secret",
+    "Power": "ACTION: Move all Favor form any one favor bank to the Hearth bank."
+  },
+  {
+    "Card Name": "Storyteller",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "2 Favor",
+    "Power": "ACTION: Place 1 Secret from the shared bank on the Darkest Secret."
+  },
+  {
+    "Card Name": "Armed Mob",
+    "Suit": "Hearth",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Discard a faceup adviser from a player who holds the Darkest Secret but not the People's Favor."
+  },
+  {
+    "Card Name": "Tavern Songs",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Peek at the top three cards of your region's discard pile."
+  },
+  {
+    "Card Name": "Extra Positions",
+    "Suit": "Hearth",
+    "Restriction": "Defense",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "+1 Defense die"
+  },
+  {
+    "Card Name": "Traveling Doctor",
+    "Suit": "Hearth",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're defeated, kill no warbands in your force and discard Traveling Doctor. Ignore powers that kill all of your force."
+  },
+  {
+    "Card Name": "Convoys",
+    "Suit": "Nomad",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Take another region's discard pile and put it on top of your region's discard pile (even if empty)."
+  },
+  {
+    "Card Name": "Vow of Kinship",
+    "Suit": "Nomad",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "Move all of your Favor to the Nomad bank. Any Favor you gain or take is put in the Nomad bank.You can use Favor in the Nomad Bank as if it is on your board."
+  },
+  {
+    "Card Name": "Wild Mounts",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you would discard any number of Nomad battle plans, you may instead discard any one Beast card you rule."
+  },
+  {
+    "Card Name": "Lancers",
+    "Suit": "Nomad",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Double your total attack roll. At end, discard Lancers."
+  },
+  {
+    "Card Name": "Mountain Giant",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Secret",
+    "Power": "± 1 Attack die OR ± 3 Attack dice and at end, discard."
+  },
+  {
+    "Card Name": "Rival Khan",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "± 4 Attack dice if your enemy has a Nomad advisor. At end, discard Rival Khan."
+  },
+  {
+    "Card Name": "Lost Tongue",
+    "Suit": "Nomad",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "Other players cannot target or take your relics or banners in any way unless they rule a Nomad card."
+  },
+  {
+    "Card Name": "Special Envoy",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "Spend no Supply. After traveling, end your Act Phase."
+  },
+  {
+    "Card Name": "Resettle",
+    "Suit": "Nomad",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Move any faceup Nomad card from any player's advisers to any site."
+  },
+  {
+    "Card Name": "Oracle",
+    "Suit": "Nomad",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "2 Secrets",
+    "Power": "ACTION: Draw the Vision closest to the top of the world deck. Play or discard it as if you searched."
+  },
+  {
+    "Card Name": "Pilgrimage",
+    "Suit": "Nomad",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, move all denizens at your site to the Dispossessed. Shuffle and draw denizens from the dispossessed equal to the number you moved. Peek at them and put them on your region's discard pile."
+  },
+  {
+    "Card Name": "Spell Breaker",
+    "Suit": "Nomad",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "Enemies of Spell Breaker's ruler cannot use powers that cost and Secrets or burnt Secrets."
+  },
+  {
+    "Card Name": "Mounted Patrol",
+    "Suit": "Nomad",
+    "Restriction": "Defense",
+    "Action": "",
+    "Cost": "",
+    "Power": "The attacker rolls only hald the Attack dice in their attack pool, rounded down. At end, discard Mounted Patrol."
+  },
+  {
+    "Card Name": "Great Crusade",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "± 1 Attack die per Nomad card you rule. At end, discard Great Crusade."
+  },
+  {
+    "Card Name": "Ancient Bloodline",
+    "Suit": "Nomad",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "Your enemies act as if denizens and relics at sites you rule are LOCKED."
+  },
+  {
+    "Card Name": "Ancient Pact",
+    "Suit": "Nomad",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, you may give the Chancellor the Darkest Secret to become a Citizen– take any one Religuary relic without peeking, end your Act Phase, and refresh Supply to full."
+  },
+  {
+    "Card Name": "Storm Caller",
+    "Suit": "Nomad",
+    "Restriction": "Defense",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "+ 2 Defense dice. At end, discard Storm Caller."
+  },
+  {
+    "Card Name": "Family Wagon",
+    "Suit": "Nomad",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "You can only have one adviser that is not a Nomad. You can have any number of Nomad advisers– they ignore your adviser limit."
+  },
+  {
+    "Card Name": "Way Station",
+    "Suit": "Nomad",
+    "Restriction": "Site",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "Spend no Supply if you're traveling to this site and either rule Way Station or choose to give 1 Favor to its ruler. (Give it to Chancellor if Empire, burn it if bandits.)"
+  },
+  {
+    "Card Name": "Twin Brother",
+    "Suit": "Nomad",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, you may swap this card with a faceup Nomad adviser of another player."
+  },
+  {
+    "Card Name": "Hospitality",
+    "Suit": "Nomad",
+    "Restriction": "Adviser",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "After traveling, gain Favor from one favor bank that mathces both a card at your site and one of your advisers."
+  },
+  {
+    "Card Name": "A Fast Steed",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Travel",
+    "Cost": "1 Favor",
+    "Power": "Spend no Supply if you have three of fewer wardbands on your board."
+  },
+  {
+    "Card Name": "Relic Worship",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Recover",
+    "Cost": "",
+    "Power": "After you recover a relic, gain 3 supply."
+  },
+  {
+    "Card Name": "Sacred Ground",
+    "Suit": "Nomad",
+    "Restriction": "Locked Site",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "Players cannot play Visions, except the Consipiracy, faceup unless their pawn is at this site."
+  },
+  {
+    "Card Name": "Ancient Forge",
+    "Suit": "Nomad",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "2 Favor, Burn 1 Secret",
+    "Power": "ACTION: Draw a relic. Take it or put it on the bottom of the relic deck."
+  },
+  {
+    "Card Name": "Broken Forge",
+    "Suit": "Nomad",
+    "Restriction": "Locked Site",
+    "Action": "",
+    "Cost": "2 Favor, 2 Secrets",
+    "Power": "You cannot use this card to muster or trade. ACTION: Flip this card over."
+  },
+  {
+    "Card Name": "Ancient Binding",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Secret, Burn 1 Secret",
+    "Power": "ACTION: Each player burns all Secrets from their board and cards except their last secret. (Keep only your secret here.)"
+  },
+  {
+    "Card Name": "Elders",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "2 Favor",
+    "Power": "ACTION: Gain 1 Secret."
+  },
+  {
+    "Card Name": "Horse Archers",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "± 3 Attack dice. At end, discard Horse Archers."
+  },
+  {
+    "Card Name": "Faithful Friend",
+    "Suit": "Nomad",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, gain 4 Supply."
+  },
+  {
+    "Card Name": "Tents",
+    "Suit": "Nomad",
+    "Restriction": "",
+    "Action": "Travel",
+    "Cost": "1 Favor",
+    "Power": "Spend no Supply if you're traveling to a site in your region."
+  },
+  {
+    "Card Name": "Warning Signals",
+    "Suit": "Nomad",
+    "Restriction": "Defense",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Move any warbands to and from your board and any sites you rule (except the last warband from a site). At end, discard Warning Signals."
+  },
+  {
+    "Card Name": "Great Herd",
+    "Suit": "Nomad",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "When PLAYED, you may swap the Great Herd with a Nomad card at any site."
+  },
+  {
+    "Card Name": "The Gathering",
+    "Suit": "Nomad",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, any players in turn order may put their pawn on this site. Then, players with pawns here may negotiate binding exchanges of Favor, Secrets, relics, and advisers."
+  },
+  {
+    "Card Name": "Rain Boots",
+    "Suit": "Nomad",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Ignore all your enemy's rolls of single shields. At end, discard Rain Boots."
+  },
+  {
+    "Card Name": "Code of Honor",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "± 2 Attack dice but you cannot use other battle plans."
+  },
+  {
+    "Card Name": "Outriders",
+    "Suit": "Order",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Ignore all skulls you roll."
+  },
+  {
+    "Card Name": "Messenger",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Move any wardbands to and from your board and any sites you rule (except the last warband from a site)."
+  },
+  {
+    "Card Name": "Field Promotion",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "If you are victorious, gain three warbands."
+  },
+  {
+    "Card Name": "Palanquin",
+    "Suit": "Order",
+    "Restriction": "Adviser",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Chose a player whose pawn is at your site. Put your pawn on a site that they can travel to. Make them travel to that site, spending no Supply."
+  },
+  {
+    "Card Name": "Shield Wall",
+    "Suit": "Order",
+    "Restriction": "Defense",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "+ 2 Defense dice. If you're defeated, kill all of your force."
+  },
+  {
+    "Card Name": "Military Parade",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're victorious, gain 1 Favor from the favor banks matching each adviser of your enemy (including Imperial Allies)."
+  },
+  {
+    "Card Name": "Tome Guardians",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "Enemies of Tome Guardians' ruler cannot target or take the Darkest Secret in any way."
+  },
+  {
+    "Card Name": "Tyrant",
+    "Suit": "Order",
+    "Restriction": "Locked Adviser",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "You must kill a warband (even your own) at the site you travel to, if able."
+  },
+  {
+    "Card Name": "Forced Labor",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "Enemies cannot search if their pawn is at any site ruled by Forced Labor's ruler unless they give 1 Favor to its ruler. (Give it to the Chancellor if Empire, burn it if Bandits.)"
+  },
+  {
+    "Card Name": "Secret Police",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "Enemies cannot play Visions faceup while their pawn is at any site ruled by Secret Police's ruler."
+  },
+  {
+    "Card Name": "Specialist",
+    "Suit": "Order",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "2 Favor",
+    "Power": "The defender cannot use battle plans."
+  },
+  {
+    "Card Name": "Captains",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Campaign at any site you rule. Act as if your pawn is there. Spend no Supply and add your warbands there to your force."
+  },
+  {
+    "Card Name": "Siege Engines",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "1 Favor",
+    "Power": "ACTION: Kill two warbands (even yours) at any one site in your region."
+  },
+  {
+    "Card Name": "Royal Tax",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, take 2 Favor from each player whose pawn is at a site you rule."
+  },
+  {
+    "Card Name": "Toll Roads",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "Enemies cannot travel to sites ruled by Toll Roads' ruler unless they give 1 Favor to its ruler. (Give it to the Chancellor if Empire, burn it if Bandits.)"
+  },
+  {
+    "Card Name": "Curfew",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "Enemies cannot trade with cards ruled by Curfew's ruler unless they give 1 Favor to its ruler. (Give it to the Chancellor if Empire, burn it if Bandits.)"
+  },
+  {
+    "Card Name": "Knights Errant",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Muster",
+    "Cost": "",
+    "Power": "After mustering, you may campaign, spending no Supply."
+  },
+  {
+    "Card Name": "Vow of Obedience",
+    "Suit": "Order",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "You cannot play Visions faceup. REST: Take 1 Favor from any one favor bank."
+  },
+  {
+    "Card Name": "Hunting Party",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "After searching the world deck, you may campaign, spending no supply."
+  },
+  {
+    "Card Name": "Council Seat",
+    "Suit": "Order",
+    "Restriction": "Locked Adviser",
+    "Action": "",
+    "Cost": "",
+    "Power": "If you're a Citizen, you cannot be excited, even by yourself."
+  },
+  {
+    "Card Name": "Encirclement",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "± 2 Attack dice if your force is larger than your enemy's."
+  },
+  {
+    "Card Name": "Peace Envoy",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "1 Favor",
+    "Power": "You cannot use other battle plans. If your enemy's pawn is at your site, give them one Favor per defense die in the pool. You're victorious now. Ignore killing warbands."
+  },
+  {
+    "Card Name": "Relic Hunter",
+    "Suit": "Order",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "You may target facedown relics at targeted sites, adding 1 Defense die per relic. You may put any relics you take on the bottom of the relic deck."
+  },
+  {
+    "Card Name": "Sprawling Rampart",
+    "Suit": "Order",
+    "Restriction": "Locked Site",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Each site ruled by Sprawling Rampart's ruler adds one more Defense die when targeted."
+  },
+  {
+    "Card Name": "Bandit Rampart",
+    "Suit": "Order",
+    "Restriction": "Locked Site, Defense",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "-2 Attacker dice if this site is targeted"
+  },
+  {
+    "Card Name": "Longbows",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "± 1 Attack die."
+  },
+  {
+    "Card Name": "Wrestlers",
+    "Suit": "Order",
+    "Restriction": "Defense",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "+1 Defense die if you sacrifice one warband in your force."
+  },
+  {
+    "Card Name": "Battle Honor",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're victorious, gain 2 Favor from the Order bank."
+  },
+  {
+    "Card Name": "Keep",
+    "Suit": "Order",
+    "Restriction": "Locked Site, Defense",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "+2 Defense dice if this site is targeted."
+  },
+  {
+    "Card Name": "Garrison",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED, gain one warband per site you rule, and put one warband from your board on each site you rule."
+  },
+  {
+    "Card Name": "Bear Traps",
+    "Suit": "Order",
+    "Restriction": "Defense",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "- 1 Attack die. Kill one warband on the attacker's board."
+  },
+  {
+    "Card Name": "Scouts",
+    "Suit": "Order",
+    "Restriction": "Attacker",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "Gain 1 Supply."
+  },
+  {
+    "Card Name": "Pressgangs",
+    "Suit": "Order",
+    "Restriction": "",
+    "Action": "Muster",
+    "Cost": "",
+    "Power": "You can muster on cards that already have Favor or Secrets on them."
+  },
+  {
+    "Card Name": "Martial Culture",
+    "Suit": "Order",
+    "Restriction": "Site",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're an exile and defeat another Exile, you may become a Citizen– take no relic, end your Act Phase, and refresh Supply to full (leftmost)."
+  },
+  {
+    "Card Name": "Ruined Temple",
+    "Suit": "",
+    "Restriction": "Locked Site",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "You cannot use this card to muster or trade. Enemies of Ruined Temple's ruler cannot play Beast cards faceup."
+  },
+  {
+    "Card Name": "Vision of Conquest",
+    "Suit": "",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WAKE: You win if you rule the most sites and at least three Visions have been drawn from the deck."
+  },
+  {
+    "Card Name": "Vision of Sanctuary",
+    "Suit": "",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WAKE: You win if you hold the most relics and banners, and at the least three Visions have been drawn from the deck."
+  },
+  {
+    "Card Name": "Vision of Faith",
+    "Suit": "",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WAKE: You win if you hold the Darkest Secret and at least three Visions have been drawn from the deck."
+  },
+  {
+    "Card Name": "Vision of Rebellion",
+    "Suit": "",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WAKE: You win if you hold the People's Favor and at least three Visions have been drawn from the deck."
+  },
+  {
+    "Card Name": "Conspiracy",
+    "Suit": "",
+    "Restriction": "",
+    "Action": "",
+    "Cost": "",
+    "Power": "WHEN PLAYED: You may burn 1 Secret to take one relic or banner from a player whose pawn is at your site. Trigger its WHEN SEIZED if it's a banner. To do so, you must have at least two advisers whose suits match any of their advisers. Return this card to the box."
+  },
+  {
+    "Card Name": "Ivory Eye",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Peek at any facedown site, adivser, or relic at a site."
+  },
+  {
+    "Card Name": "Ring of Devotion",
+    "Suit": "Relic",
+    "Restriction": "3 Defense dice",
+    "Action": "",
+    "Cost": "",
+    "Power": "You cannot place warbands at sites. When mustering, you gain two more warbands."
+  },
+  {
+    "Card Name": "Whistle",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Chose a pwan at another site. They must travel to your site if able, spending no Supply. If they do, give them the Secret here."
+  },
+  {
+    "Card Name": "Cracked Horn",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "You may put all the cards you discard on the bottom of the world deck."
+  },
+  {
+    "Card Name": "Obsidian Cage",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're victorious, move all unkilled warbands in your enemy's force to Obsidian Cage. ACTION: Move any number of warbands from Obsidian Cage to any board of the same color."
+  },
+  {
+    "Card Name": "Sticky Fire",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're victorious, you may kill all the warband in your enemy's force. If you do, you must give them 1 Favor if able."
+  },
+  {
+    "Card Name": "Cursed Cauldron",
+    "Suit": "Relic",
+    "Restriction": "3 Defense dice",
+    "Action": "Campaign",
+    "Cost": "",
+    "Power": "If you're victorious, gain one warband per enemy warband killed in this campaign."
+  },
+  {
+    "Card Name": "Brass Horse",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Reveal the top card of your discard pile. Travel to a site with a card of this suit. If unable, travel as normal. In either case, spend no Supply."
+  },
+  {
+    "Card Name": "Truthful Harp",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "You may draw two more cards. If you do, you must reveal every card you draw and the card you keep."
+  },
+  {
+    "Card Name": "Grand Mask",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "",
+    "Cost": "",
+    "Power": "If you're an Exile, during your turn you rule cards except battle plans at Imperial sites, and Imperial players do not."
+  },
+  {
+    "Card Name": "Horned Mask",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "",
+    "Cost": "1 Secret",
+    "Power": "ACTION: Swap one of your faceup advisers with a card at your site."
+  },
+  {
+    "Card Name": "Cup of Plenty",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "Trade",
+    "Cost": "",
+    "Power": "Spend no Supply if you're trading with a card that matches any of your advisers."
+  },
+  {
+    "Card Name": "Dowsing Sticks",
+    "Suit": "Relic",
+    "Restriction": "3 Defense dice",
+    "Action": "",
+    "Cost": "1 Secret, Burn 2 Favor",
+    "Power": "ACTION: Draw a relic. Take it or put it on the bottom of the relic deck."
+  },
+  {
+    "Card Name": "Bandit Crown",
+    "Suit": "Relic",
+    "Restriction": "3 Defense dice",
+    "Action": "",
+    "Cost": "",
+    "Power": "Act as if bandits are your warbands except at sites ruled by enemies. (You rule empty sites.) They cannot be killed, moved, or sacrificed."
+  },
+  {
+    "Card Name": "Skeleton Key",
+    "Suit": "Relic",
+    "Restriction": "3 Defense dice",
+    "Action": "",
+    "Cost": "1 Secret, Burn 1 Secret",
+    "Power": "ACTION: If the Chancellor rules your site, peek at any one relice in the Imperial Reliquary, and you may take it."
+  },
+  {
+    "Card Name": "Oracular Pig",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Peek at the top three cards of the world deck."
+  },
+  {
+    "Card Name": "Circlet of Command",
+    "Suit": "Relic",
+    "Restriction": "1 Defense die",
+    "Action": "",
+    "Cost": "",
+    "Power": "Players cannot target or take your banners or your other relics. In campaigns, banishing your pawn and favor adds one more Defense die."
+  },
+  {
+    "Card Name": "Map",
+    "Suit": "Relic",
+    "Restriction": "3 Defense dice",
+    "Action": "",
+    "Cost": "",
+    "Power": "ACTION: Put this relic on the bottom of the relic deck to gain 4 Supply."
+  },
+  {
+    "Card Name": "Book of Records",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "Search",
+    "Cost": "",
+    "Power": "You must gain 1 Secret instead of 1 Favor when you play to a site."
+  },
+  {
+    "Card Name": "Dragonskin Drum",
+    "Suit": "Relic",
+    "Restriction": "2 Defense dice",
+    "Action": "Travel",
+    "Cost": "",
+    "Power": "After traveling, gain one warband."
+  }
+]
